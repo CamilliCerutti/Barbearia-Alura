@@ -7,3 +7,6 @@ Um projeto desenvolvido durante as aulas da formação Iniciante em Programaçã
   <img align="center" alt="camilli-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 </div>
 
+<p align="center>
+          <img width="460" height="300" src="src/assets/Video.gif"/>
+</p>
